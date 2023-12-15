@@ -4,7 +4,7 @@
 
 # Projeto Idear: Explore a potência da inventividade.
 
-Uma ferramenta revolucionária para criar ideias e soluções, facilitando a resolução eficiente de problemas. Com uma interface intuitiva e uma experiência do usuário excepcional, o Idear é a opção ideal para estimular sua criatividade e obter resultados impressionantes.
+Uma ferramenta inovadora para criar ideias e soluções, facilitando a resolução eficiente de problemas. Com uma interface intuitiva e uma experiência do usuário excepcional, o Idear é a opção ideal para estimular sua criatividade e obter resultados impressionantes.
 
 ## Funcionalidades
 - *Cadastro:* Usuários podem se cadastrar com nome de usuário, senha e e-mail.
@@ -31,13 +31,5 @@ Uma ferramenta revolucionária para criar ideias e soluções, facilitando a res
 - Java
 - PostgreSQL
 - Postman
-- Swagger UI
 - Spring Security
-
-## Desenvolvedores 
-- Brenno Freitas
-- Marcos Tenorio
-- Hamilton Gomes
-- Jose Igor
-- Lais Queiroz
-- Sidney Lima
+- Swagger UI
