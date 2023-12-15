@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cAgBfvdq)
-
 ![Idear](https://github.com/SIN-disciplina-PI3/Idear-front/assets/112783205/5b42c87a-b917-46f3-a8b9-9bbd8cb61b51)
 
 # Projeto Idear: Explore a potência da inventividade.
