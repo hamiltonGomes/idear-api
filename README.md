@@ -19,7 +19,7 @@ Uma ferramenta inovadora para criar ideias e soluções, facilitando a resoluç�
 - Acesse o site do Idear em [https://idear-pi.vercel.app/].
 - Preencha o campo de Login que é solicitado.
 - Ao entrar inicie uma nova sala.
-- Escolha o método de lhe deseja.
+- Escolha o método que deseja.
 - Iniciando siga as instruções que aparecem na tela.
 - Ao finalizar, a sala será salva para consulta dos resultados da ideação.
 
