@@ -15,3 +15,4 @@ This project is an API built using **Java, Spring, PostgreSQL, and the ChatGPT A
 - Method Selection: Flexibility to choose brainstorming methods.
 - Create Online Room: Central environment for contributions and interactions.
 - My Sessions: Visualization of previous projects in a dedicated tab.
+- IA Assistent: Assisted Ideation with ChatGPT.
